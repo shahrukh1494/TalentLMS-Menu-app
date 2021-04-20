@@ -77,7 +77,6 @@ p {
   justify-items: center;
 }
 .menu-item {
-  display: grid;
   max-width: 800px;
   border: solid 2px brown;
   padding: 20px;
